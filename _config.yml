@@ -1,0 +1,49 @@
+name: Wineroom
+analytics: {}
+purpose:
+  - type: contact
+    url: 'mailto:winedownqrizma@gmail.com'
+    label: Contact me
+  - type: contact
+    url: 'tel:6612353095'
+    label: Call (661) 235-3095
+github: true
+description: Direct Cellars Premium Wine Club Member
+colors:
+  brandColors:
+    - 'hsl(0,0%,100%)'
+    - 'hsl(0,0%,80%)'
+    - 'hsl(0,0%,60%)'
+    - 'hsl(0,0%,30%)'
+    - 'hsl(0,0%,20%)'
+author: {}
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
+content: []
+layout_spectrum: 0.8455153454560786
+color:
+  lightness: 0.8046460824552923
+  brandColors:
+    - '#FFFFFF'
+    - '#CCCCCC'
+    - '#999999'
+    - '#4D4D4D'
+    - '#333333'
+  saturation: 0.7858220019843429
+  brandStrength: 0.3472920393105596
+  rhythmicContrast: 0.4185382758732885
+content_rating:
+  adult: false
+typography_spectrum: 0.600618724245578
+opengraph: {}
+title: Winedown Qrizma
