@@ -8,7 +8,11 @@ purpose:
     url: 'tel:6612353095'
     label: Call (661) 235-3095
 github: true
-description: Direct Cellars Premium Wine Club Member
+description: DC Premium Wine Club Member
+author:
+  name: Ken Hutchison
+  url: www.directcellars.com/wineroom
+  email: winedownqrizma@gmail.com
 colors:
   brandColors:
     - 'hsl(0,0%,100%)'
@@ -16,22 +20,18 @@ colors:
     - 'hsl(0,0%,60%)'
     - 'hsl(0,0%,30%)'
     - 'hsl(0,0%,20%)'
-author:
-  name: Ken Hutchison
-  url: www.directcellars.com/wineroom
-  email: winedownqrizma@gmail.com
 collections:
   - index:
       path: /
       number: 15
       paginate: true
       navigable: true
-    permalink:
-      path: '/:title/'
     feed:
       path: /rss.xml
       format: rss
       number: 10
+    permalink:
+      path: '/:title/'
 content: []
 layout_spectrum: 0.8455153454560786
 color:
