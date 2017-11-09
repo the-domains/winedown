@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Winedown Qrizma]]></title>
+        <description><![CDATA[Winedown Qrizma]]></description>
+        <link>https://thegrid.ai/wineroom/</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Thu, 09 Nov 2017 09:41:27 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/wineroom/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Direct Cellars]]></title>
+            <description><![CDATA[<h1>Direct Cellars</h1>,<h2>Friday = Wineday here at DC! 🍷</h2>,<article><img src="https://scontent.xx.fbcdn.net/v/t1.0-9/p720x720/19875136_776459025866082_800521513649286484_n.png?oh=f3a9af9bbd18ffb65139e628b8098667&oe=5A321D93"></article>]]></description>
+            <link>https://thegrid.ai/wineroom/direct-cellars/index.html</link>
+            <guid isPermaLink="false">9cde07b2-cd36-4306-a5ab-4153eb7cc552</guid>
+            <pubDate>Thu, 09 Nov 2017 09:41:25 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
