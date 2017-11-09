@@ -1,3 +1,18 @@
+layout_spectrum: 0.4854621007016832
+typography_spectrum: 0.6722426379641684
+color:
+  lightness: 0.44527842623633473
+  brandColors:
+    - '#B9121B'
+    - '#4C1B1B'
+    - '#F6E497'
+    - '#FCFAE1'
+    - '#BD8D46'
+  saturation: 0.11416460281496148
+  brandStrength: 0.0019486140123208856
+  rhythmicContrast: 0.871356346710207
+coverPrefs:
+  filter: false
 name: Wineroom
 analytics: {}
 purpose:
@@ -33,20 +48,7 @@ collections:
     permalink:
       path: '/:title/'
 content: []
-layout_spectrum: 0.8455153454560786
-color:
-  lightness: 0.8046460824552923
-  brandColors:
-    - '#FFFFFF'
-    - '#CCCCCC'
-    - '#999999'
-    - '#4D4D4D'
-    - '#333333'
-  saturation: 0.7858220019843429
-  brandStrength: 0.3472920393105596
-  rhythmicContrast: 0.4185382758732885
 content_rating:
   adult: false
-typography_spectrum: 0.600618724245578
 opengraph: {}
 title: Winedown Qrizma
